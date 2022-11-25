@@ -10,7 +10,7 @@ int main(void)
     winter = 38;
     sum = summer + winter;
 
-    printf("%d\n", sum); 
+    printf("%i\n", sum); 
 
     return 0;
 }
